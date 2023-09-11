@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "188019558358",
+    "project_id": "masterttv2",
+    "storage_bucket": "masterttv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188019558358:android:ce8c02ba80e7c6e10f0677",
+        "android_client_info": {
+          "package_name": "com.example.milistatt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188019558358-i4ad7ofiavm96080kmj0r2j9jabjau0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFZ5oaUX_B7K-tRTWanQqe0yXd9vJ5H5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188019558358-i4ad7ofiavm96080kmj0r2j9jabjau0t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "188019558358-480fqm7c24f4g46klmdju0l1if2ho5to.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.milistatt.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188019558358:android:8b88fd1543cf1c410f0677",
+        "android_client_info": {
+          "package_name": "com.example.milistav2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188019558358-i4ad7ofiavm96080kmj0r2j9jabjau0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFZ5oaUX_B7K-tRTWanQqe0yXd9vJ5H5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188019558358-i4ad7ofiavm96080kmj0r2j9jabjau0t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "188019558358-480fqm7c24f4g46klmdju0l1if2ho5to.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.milistatt.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
